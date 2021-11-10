@@ -36,7 +36,6 @@ subprojects {
     }
 }
 
-
 project(':module-api') {
     dependencies {
         compile project(':module-common')
