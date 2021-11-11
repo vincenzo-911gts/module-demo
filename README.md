@@ -1,5 +1,5 @@
 # Getting Started
--
+- Create Spring Gradle Moudle Project
 
 ## Environment
 ```
@@ -27,3 +27,7 @@
  ./gradlew -v
  ./gradlew clean build -xtest
 ```
+
+## Reference
+- https://spring.io/guides/gs/multi-module/
+
